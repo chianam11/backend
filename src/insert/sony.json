@@ -1,0 +1,32 @@
+[
+    {
+        "brand_id": 7,
+        "brand_name": "Sony",
+        "id": "sony_xperia_10_iv-11522",
+        "phone_name": "Xperia 10 IV",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-10-iv.jpg",
+        "description": "Sony Xperia 10 IV Android smartphone. Announced May 2022. Features 6.0″ display, Snapdragon 695 5G chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass Victus.",
+        "price": 14000000,
+        "stock_quantity": 15000
+    },
+    {
+        "brand_id": 7,
+        "brand_name": "Sony",
+        "id": "sony_xperia_pro-i-11174",
+        "phone_name": "Xperia Pro-I",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-pro-i.jpg",
+        "description": "Sony Xperia Pro-I Android smartphone. Announced Oct 2021. Features 6.5″ display, Snapdragon 888 5G chipset, 4500 mAh battery, 512 GB storage, 12 GB RAM, Corning Gorilla Glass Victus.",
+        "price": 30000000,
+        "stock_quantity": 20000
+    },
+    {
+        "brand_id": 7,
+        "brand_name": "Sony",
+        "id": "sony_xperia_1_iv-11521",
+        "phone_name": "Xperia 1 IV",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-1-iv-.jpg",
+        "description": "Sony Xperia 1 IV Android smartphone. Announced May 2022. Features 6.5″ display, Snapdragon 8 Gen 1 chipset, 5000 mAh battery, 512 GB storage, 16 GB RAM, Corning Gorilla Glass Victus.",
+        "price": 32000000,
+        "stock_quantity": 18000
+    }
+]

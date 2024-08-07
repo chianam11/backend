@@ -1,0 +1,52 @@
+[
+    {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_13_pro_max-12789",
+        "phone_name": "iPhone 13 Pro Max",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max-.jpg",
+        "description": "Apple iPhone 13 Pro Max smartphone. Announced Sep 2021. Features 6.7″ display, Apple A15 Bionic chipset, 4352 mAh battery, 1024 GB storage, 6 GB RAM, Scratch-resistant ceramic glass.",
+        "price": "41,990,000 VND",
+        "stock_quantity": 25000
+    },
+    {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_iphone_13_mini-12790",
+        "phone_name": "iPhone 13 Mini",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg",
+        "description": "Apple iPhone 13 Mini smartphone. Announced Sep 2021. Features 5.4″ display, Apple A15 Bionic chipset, 2438 mAh battery, 512 GB storage, 4 GB RAM, Scratch-resistant ceramic glass.",
+        "price": "24,490,000 VND",
+        "stock_quantity": 30000
+    },
+    {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_pro_13_(2024)-12987",
+        "phone_name": "iPad Pro 13 (2024)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-13-2024.jpg",
+        "description": "Apple iPad Pro 13 (2024) tablet. Announced May 2024. Features 13.0″ display, Apple M4 chipset, 10290 mAh battery, 2048 GB storage, 16 GB RAM, Scratch-resistant glass.",
+        "price": "153,650,000 VND",
+        "stock_quantity": 20000
+    },
+    {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_pro_11_(2024)-12986",
+        "phone_name": "iPad Pro 11 (2024)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-11-2024.jpg",
+        "description": "Apple iPad Pro 11 (2024) tablet. Announced May 2024. Features 11.0″ display, Apple M4 chipset, 8160 mAh battery, 2048 GB storage, 16 GB RAM, Scratch-resistant glass.",
+        "price": "127,520,000 VND",
+        "stock_quantity": 15000
+    },
+    {
+        "brand_id": 48,
+        "brand_name": "Apple",
+        "id": "apple_ipad_pro_12.9_(2022)-11939",
+        "phone_name": "iPad Pro 12.9 (2022)",
+        "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-129-2022.jpg",
+        "description": "Apple iPad Pro 12.9 (2022) tablet. Announced Oct 2022. Features 12.9″ display, Apple M2 chipset, 10758 mAh battery, 2048 GB storage, 16 GB RAM, Scratch-resistant glass.",
+        "price": "111,000,000 VND",
+        "stock_quantity": 18000
+    }
+]
