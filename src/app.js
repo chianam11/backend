@@ -95,5 +95,6 @@ app.use(function (err, req, res, next) {
   res.status(err.status || 500);
   res.json({ error: err });
 });
+console.log("hello2");
 
 module.exports = app;
