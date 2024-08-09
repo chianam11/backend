@@ -2,7 +2,7 @@
   "name": "base-project",
   "version": "0.0.0",
   "private": true,
-  "main": "src/app.js",
+  "main": "./bin/www",
   "scripts": {
     "start": "nodemon ./bin/www"
   },
