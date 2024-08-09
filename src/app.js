@@ -10,7 +10,6 @@ const session = require("express-session");
 const flash = require("connect-flash");
 const passport = require("passport");
 const passportLocal = require("./passports/passport.local");
-const passportGoogle = require("./passports/passport.google");
 
 const cors = require("cors");
 const validateMiddleware = require("./middlewares/validate");
@@ -43,7 +42,6 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 passport.use("local", passportLocal);
-passport.use("google", passportGoogle);
 
 passport.serializeUser(function (user, done) {
   done(null, user.id);
